@@ -12,7 +12,6 @@ project-root/
 │   ├── __init__.py
 │   ├── data_loader.py         # Loads and prepares the dataset
 │   ├── analytics.py           # Contains individual analysis functions
-│   ├── utils.py               # Helper functions for the application
 │   ├── config_loader.py       # Loads configuration files
 │
 ├── config/
