@@ -1,5 +1,6 @@
 # Crash Analysis Application
-Overview
+**Overview**
+
 This project is a data analytics application designed to perform various analyses on a crash dataset. The application is modular, following software engineering best practices, and it is built using PySpark’s DataFrame APIs to handle large datasets efficiently.
 
 The dataset consists of six CSV files, with a corresponding data dictionary provided to explain each field. The application is designed to be config-driven and command-line executable, making it easy to adjust input and output data paths, as well as other configurations.
